@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - HSE Study Guide</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background-color: #f4f6f9;
+            color: #2c3e50;
+            line-height: 1.7;
+            padding: 24px 16px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 36px 28px;
+            border-radius: 16px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            border: 1px solid #e2e8f0;
+        }
+        .header {
+            border-bottom: 2px solid #eef2f6;
+            padding-bottom: 18px;
+            margin-bottom: 24px;
+        }
+        h1 {
+            color: #1e3a8a;
+            font-size: 26px;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+        .meta {
+            font-size: 13px;
+            color: #64748b;
+            line-height: 1.5;
+        }
+        .meta strong {
+            color: #334155;
+        }
+        h2 {
+            color: #1e3a8a;
+            font-size: 18px;
+            font-weight: 600;
+            margin-top: 28px;
+            margin-bottom: 12px;
+            padding-bottom: 6px;
+            border-bottom: 1px solid #f1f5f9;
+        }
+        p {
+            font-size: 15px;
+            margin-bottom: 14px;
+            color: #334155;
+        }
+        ul {
+            margin-left: 20px;
+            margin-bottom: 16px;
+        }
+        li {
+            font-size: 14.5px;
+            margin-bottom: 8px;
+            color: #334155;
+        }
+        code {
+            background-color: #f1f5f9;
+            color: #0f172a;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: monospace;
+            font-size: 13.5px;
+        }
+        .contact-card {
+            background-color: #f8fafc;
+            border-left: 4px solid #2563eb;
+            padding: 16px 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+        .contact-card p {
+            margin-bottom: 6px;
+        }
+        a {
+            color: #2563eb;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Privacy Policy</h1>
+            <div class="meta">
+                <strong>Application:</strong> HSE Study Guide | <strong>Package:</strong> <code>com.hsestudyguide.afjal</code><br>
+                <strong>Developer:</strong> MD AFJAL ALI | <strong>Last Updated:</strong> October 04, 2026
+            </div>
+        </div>
+
+        <p><strong>HSE Study Guide</strong> ("we", "our", or "us"), developed by <strong>MD AFJAL ALI</strong>, is committed to protecting your privacy. This Privacy Policy explains our data practices for our mobile application distributed on the Google Play Store.</p>
+
+        <h2>1. Personal Information Collection</h2>
+        <p>We <strong>do NOT collect, store, sell, or share</strong> any Personally Identifiable Information (PII) from users:</p>
+        <ul>
+            <li><strong>No Account Required:</strong> No login, signup, or registration is required to use any feature of the app.</li>
+            <li><strong>No Personal Details:</strong> We do not collect names, phone numbers, email addresses, or physical addresses.</li>
+            <li><strong>No Financial Data:</strong> No payment details or banking information are collected or processed.</li>
+            <li><strong>No Media/Files Access:</strong> The app does not access your photos, camera, microphone, or storage files.</li>
+        </ul>
+
+        <h2>2. Android Device Permissions</h2>
+        <p>Our app requires only the standard and minimum network permissions:</p>
+        <ul>
+            <li><code>android.permission.INTERNET</code>: Required to fetch and update public health, safety, and environment (HSE) educational articles, study guides, and mock examination questions.</li>
+            <li><code>android.permission.ACCESS_NETWORK_STATE</code>: Used solely to detect your device's connectivity status to enable seamless offline reading and bookmarking.</li>
+        </ul>
+
+        <h2>3. Local Storage on Device</h2>
+        <p>To provide a smooth learning experience, the app stores the following data <strong>locally on your device only</strong>:</p>
+        <ul>
+            <li>Saved offline bookmarks and favorite articles.</li>
+            <li>Mock exam practice scores, completed quizzes, and test progress.</li>
+            <li>Theme selection (Light/Dark/System) and custom font size preferences.</li>
+        </ul>
+        <p><em>This data is stored inside the local SQLite database on your device and is never transmitted to external servers.</em></p>
+
+        <h2>4. Third-Party Services</h2>
+        <p>The application interacts with standard Google services for educational content delivery:</p>
+        <ul>
+            <li><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Play Services Privacy Policy</a></li>
+            <li>Google Blogger API (for public educational content retrieval)</li>
+        </ul>
+
+        <h2>5. Children’s Privacy (COPPA Compliance)</h2>
+        <p>Our application is an educational and professional training resource designed for safety officers and students. We do not knowingly collect any personal information from children under 13 years of age.</p>
+
+        <h2>6. User Data Control & Deletion</h2>
+        <p>You have full control over your local data. You can delete all your stored bookmarks and mock test history at any time by clearing the app data in Android <strong>Settings &gt; Apps &gt; HSE Study Guide &gt; Storage &gt; Clear Storage</strong>, or by uninstalling the application.</p>
+
+        <h2>7. Contact Us</h2>
+        <p>If you have any questions or suggestions regarding this Privacy Policy, feel free to contact us:</p>
+        <div class="contact-card">
+            <p><strong>Developer:</strong> MD AFJAL ALI</p>
+            <p><strong>Email:</strong> <a href="mailto:mdafjalali254@gmail.com">mdafjalali254@gmail.com</a></p>
+            <p><strong>Instagram:</strong> <a href="https://www.instagram.com/coding_afjal?stkn=emx0cGZlMjRkODdj" target="_blank" rel="noopener">@coding_afjal</a></p>
+        </div>
+    </div>
+</body>
+</html>
